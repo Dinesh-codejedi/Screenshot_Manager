@@ -1,6 +1,3 @@
-# Screenshot Manager Android App
-
-git remote add origin https://github.com/your-username/your-repo-name.git
 
 ## Features
 
